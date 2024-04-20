@@ -1,2 +1,2 @@
-# Fintunning-ParsBert
+# Finetunning-ParsBert
 tweets
